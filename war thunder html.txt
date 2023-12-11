@@ -1,0 +1,35 @@
+<DOCTYPE html>
+<html>
+
+<body style="background-color:red;">
+
+<style>
+  
+ body{
+      text-align: center;
+    }
+
+h1{
+      color:blue:
+backroung-color:green;
+front-size:100px;
+
+   }
+
+</style>
+
+<h7> war thunder </h7>
+
+<h1> tansk you liker: </h1>
+
+<li> Maus </li>
+
+
+<img src="maus.jpg" alt="maus"
+width="300"
+height="300"
+/>
+
+<iframe width="540" height="300" src="https://www.youtube.com/embed/BTNHAXJlutI?si=iRU9Mt0aCQO6x70F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
